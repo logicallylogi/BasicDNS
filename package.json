@@ -1,0 +1,10 @@
+{
+  "name": "sophiedns",
+  "version": "1.0.0",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "dns-packet": "^5.4.0"
+  }
+}
